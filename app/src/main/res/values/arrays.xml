@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="health_permissions">
+        <item>androidx.health.permission.Steps.READ</item>
+<!--        <item>androidx.health.permission.Steps.WRITE</item>-->
+<!--        <item>androidx.health.permission.TotalCaloriesBurned.READ</item>-->
+<!--        <item>androidx.health.permission.TotalCaloriesBurned.WRITE</item>-->
+    </string-array>
+</resources>

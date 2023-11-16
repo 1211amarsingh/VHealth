@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">V Health</string>
+    <string name="add">Add</string>
+    <string name="format_calories_average">%.2f</string>
+</resources>
